@@ -1,0 +1,43 @@
+repo_name: netguycode/PHP-MySQLi-Database-Class
+report_id: 0dfabae93a01a501780517347d53ce48
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T20:40:14+00:00'
+requested_by: netguycode
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/netguycode/PHP-MySQLi-Database-Class
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/netguycode/PHP-MySQLi-Database-Class/blob/master/tests/dataimport/users.sql
+  detection_source: tests/dataimport/users.sql
+  last_updated_by: Jonas
+  last_updated_on: 2016-06-28 08:25:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/netguycode/PHP-MySQLi-Database-Class
+  detection_source: Repo Metadata
